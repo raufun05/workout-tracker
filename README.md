@@ -53,5 +53,7 @@ We want you to have well over 200 commits by graduation, so commit early and oft
 You are required to submit the following:
 
 * The URL to the deployed application
+https://floating-dawn-36475.herokuapp.com/
 
 * The URL to the GitHub repository
+https://github.com/raufun05/workout-tracker
