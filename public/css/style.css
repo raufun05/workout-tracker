@@ -94,6 +94,9 @@ input {
   padding: 10px;
   background: linear-gradient(to bottom, #ffffff 0%, #e5e5e5 100%);
 }
+/* .statistic{
+  float: center;
+} */
 
 .wrapper {
   background-color: #f2f8ff;
